@@ -15,7 +15,7 @@
     </ol>
     <h2>Assignments:</h2>
     <ol>
-        <li> <a href="class_notes/html_examples/htmlexamples.php"> Assignment 1 </a> </li>
+        <li> <a href="Assignments/assignment1/assignment1.php"> Assignment 1 </a> </li>
     </ol>
 </body>
 </html>
