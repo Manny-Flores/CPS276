@@ -17,7 +17,7 @@
     <h2>Assignments:</h2>
     <ol>
         <li> <a href="Assignments/assignment1/assignment1.php"> Assignment 1 </a> </li>
-        <li> Assignment 2
+        <li> <a href="Assignments/assignment2/assignment2.php"> Assignment 2 </a>
             <ol>
             <li> <a href="Assignments/assignment2/excercise1.php"> Excercise 1 </a> </li>
             <li> <a href="Assignments/assignment2/excercise2.php"> Excercise 2 </a> </li>
