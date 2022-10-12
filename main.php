@@ -14,6 +14,7 @@
         <li> <a href="class_notes/form_examples/formexamples.php"> Form Examples </a> </li>
         <li> <a href="class_notes/test/test.php"> PHP </a> </li>
         <li> <a href="class_notes/oop_examples/oopexamples.php"> OOP </a> </li>
+        <li> <a href="class_notes/phpandhtml/phpandhtml.php"> PHP and HTML </a> </li>
     </ol>
     <h2>Assignments:</h2>
     <ol>
@@ -26,6 +27,7 @@
             </ol>
         </li>
         <li> <a href="Assignments/assignment3/assignment3.php"> Assignment 3 </a> </li>
+        <li> <a href="Assignments/assignment4/assignment4.php"> Assignment 4 </a> </li>
     </ol>
 </body>
 </html>
