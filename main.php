@@ -28,6 +28,7 @@
         </li>
         <li> <a href="Assignments/assignment3/assignment3.php"> Assignment 3 </a> </li>
         <li> <a href="Assignments/assignment4/assignment4.php"> Assignment 4 </a> </li>
+        <li> <a href="Assignments/assignment5/assignment5.php"> Assignment 5 </a> </li>
     </ol>
 </body>
 </html>
