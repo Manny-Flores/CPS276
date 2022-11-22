@@ -30,6 +30,7 @@
         <li> <a href="Assignments/assignment4/assignment4.php"> Assignment 4 </a> </li>
         <li> <a href="Assignments/assignment5/assignment5.php"> Assignment 5 </a> </li>
         <li> <a href="Assignments/assignment7/assignment7.php"> Assignment 7 </a> </li>
+        <li> <a href="Assignments/assignment9/assignment9.php"> Assignment 9 </a> </li>
     </ol>
 </body>
 </html>
